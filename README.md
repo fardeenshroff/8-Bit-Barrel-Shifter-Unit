@@ -41,3 +41,4 @@ This design uses a **multiplexer-based architecture** to perform shifts. The log
    ```bash
    git clone https://github.com/yourusername/8-Bit-Barrel-Shifter-Unit.git
    cd 8-Bit-Barrel-Shifter-Unit
+   
